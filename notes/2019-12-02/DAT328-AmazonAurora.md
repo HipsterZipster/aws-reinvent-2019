@@ -1,5 +1,21 @@
 2019-12-02
 
+DAT328-R - [REPEAT] Deep dive on Amazon Aurora with PostgreSQL compatibility
+
+Amazon Aurora with PostgreSQL compatibility is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. In this session, we review the functionality in order to understand the architectural differences that contribute to improved scalability, availability, and durability. You'll also get a deep dive into the capabilities of the service and a review of the latest available features. Finally, we walk you through the techniques that you can use to migrate to Amazon Aurora.
+
+
+Kevin Jernigan - Principal Product Manager, Amazon Aurora PostgreSQL, Amazon Web Services
+Grant McAlister - Senior Principal Engineer, Amazon Web Services
+Additional Information
+Session Type:Session
+Topic:Databases
+Session Level:300 - Advanced
+Please note that session information is subject to change.
+Session Schedule
+Monday, Dec 2, 10:45 AM - 11:45 AM
+– Venetian, Level 2, Venetian Theatre
+
 # Amazon RDS PostgreSQL universe
 
 - Concurrency: Remove Log Buffer
