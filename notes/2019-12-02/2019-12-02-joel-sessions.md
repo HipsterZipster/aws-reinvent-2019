@@ -55,8 +55,22 @@
 - Query plan management
 
 
+---
+
 # ARC203 Innovation At Speed 
 
+What does it take to innovate quickly? In this session, we address how blockers to innovation, such as culture, skills, antiquated processes, and board-level concerns, can stand in the way of business agility. We map out a pathway to digital transformation, including new metrics for success, integration of real-world best practices from enterprises, and the most effective organizational patterns, as we integrate the business with development and operations.
+
+
+Adrian Cockcroft - VP Cloud Architecture Strategy, Amazon Web Services
+Additional Information
+Session Type:Session
+Topic:Architecture
+Session Level:200 - Intermediate
+Please note that session information is subject to change.
+Session Schedule
+Monday, Dec 2, 12:15 PM - 1:15 PM
+– Venetian, Level 2, Venetian Theatre
 Venetian Theater 12:15 - 
 
 ## Culture 
@@ -207,3 +221,50 @@ https://aws.amazon.com/blogs/opensource/the-wheel/
 - testing failure mitigation
 
 - Cloud for CEOs - measure innovation with one metric - adrian cockcroft
+
+
+---
+
+DOP342-R - [REPEAT] Amazon's approach to building resilient services
+
+One of the biggest challenges of building services and systems is predicting the future. Changing load, business requirements, and customer behavior can all change in unexpected ways. In this talk, we look at how AWS builds, monitors, and operates services that handle the unexpected. Learn how to make your own services handle a changing world, from basic design principles to patterns you can apply today.
+
+
+Marc Brooker - Senior Principal Engineer, Amazon Web Services
+Additional Information
+Session Type:Session
+Topic:DevOps
+Session Level:300 - Advanced
+Please note that session information is subject to change.
+Session Schedule
+Monday, Dec 2, 1:45 PM - 2:45 PM
+– Venetian, Level 2, Venetian Theatre
+
+### The DevOps Loop
+- build, fail, analyze causes of failure, change practices
+
+## What risks? 
+- outright project failure
+
+### how we do this at AWS
+- Teams run what they build
+- Principal engineers are builders (avoid non-practioners architects)
+- Everybody has operational responsibility
+- Correction of error (COE) reviews connect broad sets of builders and operators
+
+### Organizationally
+- small teams
+- strong ownership
+
+### Operationally
+- deploy often
+- dive deep on issues
+- create mechanisms to drive learning back to implementation
+- have mechanisms to close the loop
+
+
+# Operational Safety - Setting operators up for successs
+
+
+
+
