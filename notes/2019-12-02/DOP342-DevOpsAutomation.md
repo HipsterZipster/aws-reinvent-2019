@@ -1,4 +1,3 @@
----
 
 DOP342-R - [REPEAT] Amazon's approach to building resilient services
 
@@ -60,3 +59,22 @@ Monday, Dec 2, 1:45 PM - 2:45 PM
 - they no longer work heree (no need to be worried)
 
 **Leadership must reject this thinking**
+
+
+## 3 books for future reading
+- see pics
+
+- dog sliding off the room equation
+- the coefficient of static friction (it's the amount of resistance you get when the dog stopped sliding)
+- the dog starts sliding and then can't stop sliding
+- kinetic friction is always less then static friction
+- distributed systems have the same problem of instability
+- system becomes overloaded -> load increases latency -> timeouts cause failures -> retries add load
+
+## How we do this at AWS
+
+- Limit queue sizes
+- Exponentially back on retry 
+- Limit retries if possible
+- End-to-end back pressure
+
