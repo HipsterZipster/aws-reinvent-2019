@@ -25,7 +25,7 @@ Failures are inevitable. Regardless of the engineering efforts put into building
 #### Examples:
 
 - set of scheduled agents
-- shut down services reandomly
+- shut down services readonly
 - slow down perf
 - check conformity
 - break an entire region
@@ -39,7 +39,7 @@ Failures are inevitable. Regardless of the engineering efforts put into building
 ### Phases of chaos engineering
 
 - steady state
-- hypothessis
+- hypothesis
 - run experiment
 - verify
 - improve
@@ -98,5 +98,5 @@ Failures are inevitable. Regardless of the engineering efforts put into building
 - readiness to handle failure (or the unknown) is feature zero
 - how would you predict this pattern?
   - customers subscribing a minute before the show starts
-  - customers rewatchng
+  - customers rewatching
 - little's law: number of customers in system = arrival rate x mean time in system

@@ -96,7 +96,7 @@ You can use an expanding set of services to automate many common management task
 
 - sr engineering godaddy
 - jared beauchamp
-- one stop shop for godaddy deveopers to learn and onboard their services to AWS
+- one stop shop for godaddy developers to learn and onboard their services to AWS
 
 ### Demo: The setup
 
