@@ -93,7 +93,7 @@ intentional, appropriate, judgement
 
 # Whats the role of boards in the long-term success of their company
 
-- Book: Transforming nokia - Risto Sillasmaa https://www.amazon.com/Transforming-NOKIA-Paranoid-Optimism-Colossal/dp/1260128725/ref=sr_1_1?keywords=transforming+nokia&qid=1575319167&s=books&sr=1-1
+- Book: Transforming nokia - Risto Sillasmaa https://www.amazon.com/Transforming-NOKIA-Paranoid-Optimism-Colossal/dp/1260128725
 
 - compensation policy - short term focus
 - executive succession
