@@ -1,4 +1,4 @@
-# DOP309-R - Improving resiliency with chaos engineering
+# DOP309-R Improving resiliency with chaos engineering
 
 Failures are inevitable. Regardless of the engineering efforts put into building resilient systems and handling edge cases, sometimes a case beyond our reach turns a benign failure into a catastrophic one. Therefore, we should test and continuously improve our system’s resilience to failures to minimize impact on a user’s experience. Chaos engineering is one of the best ways to achieve that. In this session, you learn how Amazon Prime Video has implemented chaos engineering into its regular testing methods, helping it achieve increased resiliency.
 

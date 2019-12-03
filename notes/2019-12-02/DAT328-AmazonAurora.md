@@ -1,4 +1,4 @@
-# DAT328-R - [REPEAT] Deep dive on Amazon Aurora with PostgreSQL compatibility
+# DAT328-R Deep dive on Amazon Aurora with PostgreSQL compatibility
 
 Amazon Aurora with PostgreSQL compatibility is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open-source databases. In this session, we review the functionality in order to understand the architectural differences that contribute to improved scalability, availability, and durability. You'll also get a deep dive into the capabilities of the service and a review of the latest available features. Finally, we walk you through the techniques that you can use to migrate to Amazon Aurora.
 

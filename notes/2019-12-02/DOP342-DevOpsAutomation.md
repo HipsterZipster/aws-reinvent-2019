@@ -1,4 +1,4 @@
-DOP342-R - [REPEAT] Amazon's approach to building resilient services
+# DOP342-R Amazon's approach to building resilient services
 
 One of the biggest challenges of building services and systems is predicting the future. Changing load, business requirements, and customer behavior can all change in unexpected ways. In this talk, we look at how AWS builds, monitors, and operates services that handle the unexpected. Learn how to make your own services handle a changing world, from basic design principles to patterns you can apply today.
 

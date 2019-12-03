@@ -1,4 +1,4 @@
-MGT304 - Automate everything: Options and best practices
+# MGT304 Automate everything: Options and best practices
 
 You can use an expanding set of services to automate many common management tasks in your AWS environment: patching, configuration updates, software stack deployments, and more. In this session, we explore how you can use AWS management tools for automation, including through the use of self-service runbooks. We discuss the many options available, including AWS CloudFormation, AWS Service Catalog, and AWS Systems Manager.
 
