@@ -29,8 +29,8 @@ Monday, Dec 2, 1:45 PM - 2:45 PM
 
 ### Organizationally
 
-- small teams
-- strong ownership
+- Small teams
+- Strong ownership
 
 ### Operationally
 
