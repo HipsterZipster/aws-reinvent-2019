@@ -2,23 +2,22 @@
 
 What does it take to innovate quickly? In this session, we address how blockers to innovation, such as culture, skills, antiquated processes, and board-level concerns, can stand in the way of business agility. We map out a pathway to digital transformation, including new metrics for success, integration of real-world best practices from enterprises, and the most effective organizational patterns, as we integrate the business with development and operations.
 
-Adrian Cockcroft - VP Cloud Architecture Strategy, Amazon Web Services
-Additional Information
-Session Type:Session
-Topic:Architecture
-Session Level:200 - Intermediate
-Please note that session information is subject to change.
-Session Schedule
-Monday, Dec 2, 12:15 PM - 1:15 PM
-– Venetian, Level 2, Venetian Theatre
-Venetian Theater 12:15 -
+**Speakers**
+
+- Adrian Cockcroft - VP Cloud Architecture Strategy, Amazon Web Services
+
+**Session Info**
+
+- Session Level:200 - Intermediate
+- Monday, Dec 2, 12:15 PM - 1:15 PM
+- Venetian, Level 2, Venetian Theatre
 
 ## Culture
 
 - new needs: personalization, customer analytics, new channels direct to consumer, more scale, rapid changes
 - leadership system and feedback problems
   -centralized slow decision-making lack of trust
-- inflexible policies and processess
+- inflexible policies and processes
 
 - ahead in the cloud - stephen orban https://www.amazon.com/Ahead-Cloud-Practices-Navigating-Enterprise/dp/1981924310
 - a seat at the table and war and peace and IT - mark schwartz https://www.amazon.com/Seat-Table-Leadership-Age-Agility/dp/1942788118
@@ -31,8 +30,8 @@ Venetian Theater 12:15 -
 ## netflix -0 culture
 
 - values are what we value
-- high peformance
-- freedom and reponsibility
+- high performance
+- freedom and responsibility
 - context not control
 - highly aligned loosely coupled
 - pay top of market
@@ -74,7 +73,7 @@ intentional, appropriate, judgement
 - Reduce tech debt and lock-in
 - Project to product book - mik kersten
 - DevOps handbook team
-- integrate business with devops
+- integrate business with DevOps
 - AWS Service teams BusProdDevOps
   - business
 
@@ -97,7 +96,7 @@ intentional, appropriate, judgement
 - Book: Transforming nokia - Risto Sillasmaa https://www.amazon.com/Transforming-NOKIA-Paranoid-Optimism-Colossal/dp/1260128725/ref=sr_1_1?keywords=transforming+nokia&qid=1575319167&s=books&sr=1-1
 
 - compensation policy - short term focus
-- executive successsion
+- executive succession
 - oversight of finance
 - oversight of risk
 - oversight of strategy
@@ -107,9 +106,8 @@ intentional, appropriate, judgement
 
 - we cant change culture because incentives aren't aligned
 - we cant change incentives because compensation isn't flexible enough
--
 
-# pathway to innnovation
+# pathway to innovation
 
 - speed - time to value
 - scale - distributed workloads
@@ -130,25 +128,26 @@ intentional, appropriate, judgement
 - pay as you go, afterward
 - self-service, no waiting
 - globally distributed by default
-- cross-zone/-region avaialbility models
+- cross-zone/-region availability models
 - high utilization - turn idle resources off
 - immutable code deployments
 
 ## Strategic
 
-## Containers vs serverless comparision
+## Containers vs serverless comparison
 
 see pictures
+#TODO
 
 | Containers | Serverless || --
 
 ## Observabilty high to low
 
-- high - lambda functoin with no side effects
-- microservice that does on e thing
-- monolith with tracing and loging
+- high - lambda function with no side effects
+- Microservice that does on e thing
+- monolith with tracing and logging
 - low monolith with logging
-- Books: Engineering a SAfer World - systems thinkinh applied to safety by nancy g leveson
+- Books: Engineering a SAfer World - systems thinking applied to safety by nancy g leveson
 - STPA model 0-
 
 ## Epidemic example
@@ -160,7 +159,7 @@ see pictures
 - four layers
 - you can only be as strong as your weakest link
 - failures are a system problem - lack of
-- dependble
+- dependable
 - cloud gives the automation for chaos engineering
 
 - testing failure mitigation

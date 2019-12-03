@@ -2,15 +2,15 @@ DOP342-R - [REPEAT] Amazon's approach to building resilient services
 
 One of the biggest challenges of building services and systems is predicting the future. Changing load, business requirements, and customer behavior can all change in unexpected ways. In this talk, we look at how AWS builds, monitors, and operates services that handle the unexpected. Learn how to make your own services handle a changing world, from basic design principles to patterns you can apply today.
 
-Marc Brooker - Senior Principal Engineer, Amazon Web Services
-Additional Information
-Session Type:Session
-Topic:DevOps
-Session Level:300 - Advanced
-Please note that session information is subject to change.
-Session Schedule
-Monday, Dec 2, 1:45 PM - 2:45 PM
-– Venetian, Level 2, Venetian Theatre
+**Speakers**
+
+- Marc Brooker - Senior Principal Engineer, Amazon Web Services
+
+**Session Info**
+
+- Session Level:300 - Advanced
+- Monday, Dec 2, 1:45 PM - 2:45 PM
+- Venetian, Level 2, Venetian Theatre
 
 ### The DevOps Loop
 
@@ -97,8 +97,8 @@ Monday, Dec 2, 1:45 PM - 2:45 PM
 - always jitter periodic work (timers, cron, etc)
 - consider adding jitter to all work
 
-
 # Summary
+
 - Ownership: closing the loop between dev and ops
 - operational safety - setting operators up fort success
 - service stability - what it means to be stable at scale
