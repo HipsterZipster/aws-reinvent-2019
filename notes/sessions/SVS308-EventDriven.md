@@ -66,6 +66,7 @@ Event-driven architectures are getting a lot of attention. We have recently inve
 ## Eventing things that still need work
 
 - Loops!
-- Too much pipefitting
+- Too much pipe-fitting
 - Easier and safer access control
 - Blobby events, discovery, and autocomplete needed
+
