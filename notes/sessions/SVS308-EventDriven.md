@@ -43,7 +43,7 @@ Event-driven architectures are getting a lot of attention. We have recently inve
 ### Event Processing Facets
 
 1. Strict Ordering: Do we care about the order that the events are digested?
-1. Deduplication: Does it matter if somehow the same event is sent more than once?
+1. De-duplication: Does it matter if somehow the same event is sent more than once?
 1. Point-to-point vs pub/sub
 1. Serverless vs broker/cluster
 1. Filtering vs firehouse
@@ -66,6 +66,7 @@ Event-driven architectures are getting a lot of attention. We have recently inve
 ## Eventing things that still need work
 
 - Loops!
-- Too much pipefitting
+- Too much pipe-fitting
 - Easier and safer access control
 - Blobby events, discovery, and autocomplete needed
+
