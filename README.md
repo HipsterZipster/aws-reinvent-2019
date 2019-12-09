@@ -1,7 +1,5 @@
 # Session Notes
 
-## 2019-12-02
-
 - [ARC203 - Innovation](/notes/sessions/ARC203-Innovation.md)
 - [ARC213 - Multi-Region Active/Active](/notes/sessions/ARC213-MultiRegionActiveActive.md)
 - [ARC349 - Five9sServices](/notes/sessions/ARC349-Five9sServices.md)
