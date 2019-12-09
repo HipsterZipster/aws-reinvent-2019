@@ -1,5 +1,4 @@
-CON421 - Amazon EKS Under the Hood
-CON421-R1OFMGM - [OVERFLOW][repeat 1] Amazon EKS under the hood (Blue-MGM)
+CON421 - Amazon EKS Under the Hood (Blue-MGM)
 
 Kubernetes allows you to run containerized workloads and services using declarative configuration and automation. Amazon Elastic Kubernetes Service (Amazon EKS) is a managed service that makes it easy to run Kubernetes on AWS without needing to stand up or maintain your own Kubernetes clusters. Amazon EKS takes care of the undifferentiated heavy lifting around securing, patching, qualifying, and upgrading Kubernetes clusters. Join us for a look under the hood at how Amazon EKS manages Kubernetes at scale. We also discuss some of the key design decisions in building out the infrastructure to manage one of the industry's fastest-growing open-source projects.
 
@@ -118,7 +117,7 @@ secure
 Eay ingtegration
 
 - annotate the service account
-- built into the defaul t credential chains in the aws sdks and cli
+- built into the default credential chains in the aws sdks and cli
 
 - Project service account token , "projected" is special.
 - You can use it and validate it against a 3rd party provider
