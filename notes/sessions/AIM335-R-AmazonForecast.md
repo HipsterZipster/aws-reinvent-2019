@@ -1,11 +1,11 @@
-#AWS Forecast Workshop
+# AWS Forecast Workshop
 
 Hierarchy:
 ML Infra -> Sagemaker -> Forecast
 
-##Managed Models (Predictors)
+## Managed Models (Predictors)
 
-##Baseline Models: 
+## Baseline Models: 
 
 Statistical - 100s of datapoints
 ARIMA: Auto regressive integrated moving average - simple statistical regression 
@@ -19,13 +19,13 @@ NN - 1,000,000s
 DeepAR++ 
 Good for: complex patterns / cold start problems 
 
-##AutoML vs Manual 
+## AutoML vs Manual 
 
-- Depending on algo - different resources are used 
+Depending on algo - different resources are used 
 
 DataSets -> Predictors -> Forecast (BackTesting)
 
-##Ways to judge model accuracy: 
+## Ways to judge model accuracy: 
 Error / Loss 
 weighted quantile loss 
 RMSE - root mean squared 
