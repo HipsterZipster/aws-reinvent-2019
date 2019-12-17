@@ -21,7 +21,7 @@ Good for: complex patterns / cold start problems
 
 ##AutoML vs Manual 
 
-Depending on algo - different resources are used 
+- Depending on algo - different resources are used 
 
 DataSets -> Predictors -> Forecast (BackTesting)
 
